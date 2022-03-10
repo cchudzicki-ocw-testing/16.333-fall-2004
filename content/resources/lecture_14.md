@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_14.pdf
 uid: fecac904-44be-983e-b19e-0451e739692c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l15_filter_examp.pdf
 uid: fb8395ef-d40e-5f4a-79b9-8fda10c85de3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

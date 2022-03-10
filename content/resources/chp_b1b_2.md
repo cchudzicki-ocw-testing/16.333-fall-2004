@@ -13,4 +13,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: chp_b1b_2.jpg
 uid: c60f024a-7fcd-ef37-4697-6beb79d1834b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

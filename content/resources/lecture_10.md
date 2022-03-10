@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_10.pdf
 uid: 7f8ff751-1c3c-fca3-ca6c-5fd52df595f7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 12a1aaf9-be7a-ca1d-756d-c7f978d7513c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -79,7 +83,7 @@ Quaternions
 ({{% resource_link 9f042ee5-f059-7fd8-913f-6ac53bbb917b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-navion\_1.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/navion_1.m))
+navion\_1.m ({{% resource_link f62e012e-6f43-c089-19f1-aca4d5844fa4 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +129,7 @@ Aircraft Longitudinal Dynamics
 {{< tdclose >}}
 {{< tdopen >}}
 Matrix Diagonalization ({{% resource_link 040ec3fb-bff6-86dc-7b5d-7b207ea5e3b4 "PDF" %}})  
-lecture4.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/lecture4.m))
+lecture4.m ({{% resource_link 65d2451d-3566-ca3a-6daa-8171040d43d3 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Spiral, Roll, and Dutch Roll Modes
 ({{% resource_link cd0b5972-e3e3-65a6-92ca-1de99d30bcb8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-lecture11.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/lecture11.m))
+lecture11.m ({{% resource_link a16d113d-c2d6-9b69-0559-418f0b77d9d3 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,9 +221,9 @@ Aircraft Lateral Autopilots
 ({{% resource_link 03fb9231-1b62-c652-e222-e14efb49573b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-ac3.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/ac3.m))  
-newr.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/newr.m))  
-ac3\_lat.mdl ([MDL](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/ac3_lat.mdl))
+ac3.m ({{% resource_link 01994fda-122c-2f88-626a-3117a6320796 "M" %}})  
+newr.m ({{% resource_link 9fceb827-c5fc-9a12-420f-0e7d28a87e47 "M" %}})  
+ac3\_lat.mdl ({{% resource_link 02ced5ba-5cfa-f1cb-12f4-2e42716730c1 "MDL" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,8 +240,8 @@ Altitude Hold and Landing
 ({{% resource_link 76c576f9-6472-bf30-52a0-38afba82feea "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-altit\_simul.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/altit_simul.m))  
-altit.mdl ([MDL](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/altit.mdl))
+altit\_simul.m ({{% resource_link d02173da-8018-df9d-7bca-7506bac96f43 "M" %}})  
+altit.mdl ({{% resource_link ec70b18b-5826-5170-1011-17765a5924b0 "MDL" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

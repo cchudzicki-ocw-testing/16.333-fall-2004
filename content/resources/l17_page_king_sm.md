@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l17_page_king_sm.pdf
 uid: 945d5fdc-1d10-fad2-fd16-98966a591b9e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

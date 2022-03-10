@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l06_modal_decomp.pdf
 uid: 040ec3fb-bff6-86dc-7b5d-7b207ea5e3b4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

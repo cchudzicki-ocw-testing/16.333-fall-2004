@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_17_sys_2.pdf
 uid: 212c5507-26b2-7fcf-8925-ed1cfcf2cca7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 59d10fc0-a31a-74c3-07d0-42b79008c871
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -54,7 +58,7 @@ Homework 3 ({{% resource_link b7445dba-24e9-0265-8e58-272133687a5f "PDF" %}})
 Homework 4 ({{% resource_link c1e8477a-43ba-ad57-9a35-3fa0ae950af1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-hw4\_aerosonde\_dist.mdl ([MDL](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/assignments/hw4_aerosonde_dist.mdl))  
+hw4\_aerosonde\_dist.mdl ({{% resource_link 2f4752de-2f1e-bf09-c81b-ab0af8e75d0f "MDL" %}})  
   
 Vincenti, Walter G. "How Did It Become 'Obvious' That an Airplane Should Be Inherently Stable?" _Invention & Technology_ (Spring-Summer 1988): 50-56.
 {{< tdclose >}}
